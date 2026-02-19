@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" rx="8.88889" fill="white"/>
+<path d="M20 18 C22 14, 26 14, 28 18" stroke="#E76F00" stroke-width="2" fill="none"/>
+<path d="M18 22 C22 20, 26 20, 30 22" stroke="#E76F00" stroke-width="2" fill="none"/>
+<text x="24" y="34" text-anchor="middle" font-size="10" font-family="Arial" font-weight="bold" fill="#007396">Java</text>
+</svg>

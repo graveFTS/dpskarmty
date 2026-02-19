@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<!-- Calendar -->
+<rect x="10" y="14" width="28" height="24" rx="4" fill="#4361EE"/>
+<line x1="10" y1="20" x2="38" y2="20" stroke="white" stroke-width="2"/>
+<!-- Medical Cross -->
+<rect x="22" y="24" width="4" height="10" fill="white"/>
+<rect x="19" y="27" width="10" height="4" fill="white"/>
+</svg>
